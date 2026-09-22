@@ -152,27 +152,27 @@
 
 /* drone.png reused for Farm Mechanization */
 .mechanization-card{
-  background-image:url("images/farm_mechanization.png") !important;
+  background-image:url("/farm_mechanization.png") !important;
 }
 
 /* Original Drone card */
 .drone-card{
-  background-image:url("images/drone_spray.png") !important;
+  background-image:url("/drone_spray.png") !important;
 }
 
 /* market_linkages.png reused for Crop Procurement */
 .procurement-card{
-  background-image:url("images/market_linkages.png") !important;
+  background-image:url("/market_linkages.png") !important;
 }
 
 /* Original Storage card */
 .storage-card{
-  background-image:url("images/storage.png") !important;
+  background-image:url("/storage.png") !important;
 }
 
 /* Original Market card */
 .market-card{
-  background-image:url("images/market_linkages.png") !important;
+  background-image:url("/market_linkages.png") !important;
 }
 
 
