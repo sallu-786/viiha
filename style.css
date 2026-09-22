@@ -147,12 +147,12 @@
 
 /* farmer.png reused for Quality Agri Inputs */
 .agri-inputs-card{
-  background-image:url("/agri_inputs_bg.png") !important;
+  background-image:url("agri_inputs_bg.png") !important;
 }
 
 /* drone.png reused for Farm Mechanization */
 .mechanization-card{
-  background-image:url("/farm_mechanization.png") !important;
+  background-image:url("farm_mechanization.png") !important;
 }
 
 /* Original Drone card */
